@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Victor Bitar and I'm a dev, from tudo que precisar</p>
+<p align="left">My name is Victor Bitar and I'm a dev, from Brazil</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning full stack<br>🎯 Goals: Aprender o máximo que posso.</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Front End<br>🎯 Goals: Full Stack.</p>
 
 ###
 
