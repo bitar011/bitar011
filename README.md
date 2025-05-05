@@ -1,16 +1,16 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 Como vai?</h1>
 
 ###
 
-<p align="left">My name is Victor Bitar and I'm a dev, from Brazil</p>
+<p align="left">Meu nome é Victor Bitar e eu sou um dev, de Jequié - BA - Brasil</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Front End<br>🎯 Goals: Full Stack.</p>
+<p align="left">✨ Criando sites desde 2024<br>📚 Atualmente estou aprendendo Front End<br>🎯 Metas: Full Stack.</p>
 
 ###
 
