@@ -13,7 +13,7 @@ Eu sou um estudante de Back-End com a linguagem Python...
 Javascript, HTML, CSS
 
 
-## Outras seções comuns em perfis do GitHub
+## Outras coisas sobre mim
 👩‍💻 Estudo atualmente na Faculdade Anhanguera, o curso de Análise e Desenvolvimento de Sistemas.
 
 🧠 Estou estudando a linguagem Python.
