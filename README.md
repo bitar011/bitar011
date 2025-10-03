@@ -1,33 +1,24 @@
-<h1 align="left">Hey 👋 Como vai?</h1>
 
-###
 
-<p align="left">Meu nome é Victor Bitar e eu sou um dev, de Jequié - BA - Brasil</p>
 
-###
 
-<h2 align="left">Sobre mim</h2>
+# Olá, eu sou o Victor! 👋
 
-###
 
-<p align="left">✨ Criando sites desde 2024<br>📚 Atualmente estou aprendendo Front End<br>🎯 Metas: Full Stack.</p>
+## 🚀 Sobre mim
+Eu sou um estudante de Back-End com a linguagem Python...
 
-###
 
-<h2 align="left">Eu desenvolvo usando:</h2>
+## 🛠 Habilidades
+Javascript, HTML, CSS
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
+## Outras seções comuns em perfis do GitHub
+👩‍💻 Estudo atualmente na Faculdade Anhanguera, o curso de Análise e Desenvolvimento de Sistemas.
 
-###
-<!---
-bitar011/bitar011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🧠 Estou estudando a linguagem Python.
+
+👯‍♀️ Procuro colaborar em resolução de problemas utilizando a linguagem
+
+📫 Como entrar em contato comigo: victorbitarr@gmail.com
+
